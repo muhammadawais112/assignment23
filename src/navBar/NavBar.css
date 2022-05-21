@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+.styleNav{
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+   padding: 20px;
+    
+}
+a{
+    color: white;
+}
